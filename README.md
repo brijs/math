@@ -12,3 +12,4 @@
 - [test9](https://forms.gle/eGr9Hu8zUejg1GLb6) - word problems with unknowns
 - [test10](https://forms.gle/7KMzJrQ2o9smFfJu6) - ratios
 - [test11](https://forms.gle/Kc6UctWR57CMiSQL7) - counting, series patterns
+- [test12](https://forms.gle/YkBjTzwWdVgAgDDq5) - counting, intersections, ratio
